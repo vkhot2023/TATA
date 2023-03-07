@@ -114,5 +114,9 @@ CMO REQUIREMENT:
 
 More detail analysis could see into PPT document:
 
+link:https://github.com/vkhot2023/TATA/blob/main/TATAppt.pdf
+
+## PowerBI Project:
+
 link:
 
