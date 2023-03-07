@@ -78,6 +78,27 @@ Detail Product Report DashBoard:
 
 ![Capture4](https://user-images.githubusercontent.com/115641570/223328171-aa340d80-d40c-4c16-b702-39dcb5379c86.PNG)
 
-Model Development:
+### Model Development:
 
-I went further to develop Model 
+In this process, we developed RFM model to provide list of high potential target customers.RFM analysis is utilize to determine which customers need to target to increase business. customers segmented into 5 categories:
+we divide customers in 6 categories namely:
+
+1 Platinum 
+
+2  Gold
+
+3  Silver
+
+4 Bronze
+
+5 Copper
+
+Their values are in order of Platinum > Premium Gold > Standard Gold > Silver > Bronze > Lost Customers
+
+we used Powerbi tool to generates this model
+Screenshot:
+
+![Capture3](https://user-images.githubusercontent.com/115641570/223330297-7b888048-eb61-4470-a4d7-210727b4c524.PNG)
+
+PowerBi Model link:
+
