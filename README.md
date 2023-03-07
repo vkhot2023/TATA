@@ -16,9 +16,7 @@ In this project, we are carrying following steps:
 
 3 DashBoard Generation
 
-4 Data Analysis
-
-5 Insights
+4 Data Analysis and Insights
 
 ## Project statement
 
@@ -81,7 +79,7 @@ Detail Product Report DashBoard:
 ### Model Development:
 
 In this process, we developed RFM model to provide list of high potential target customers.RFM analysis is utilize to determine which customers need to target to increase business. customers segmented into 5 categories:
-we divide customers in 6 categories namely:
+we divide customers in 5 categories namely:
 
 1 Platinum 
 
@@ -95,10 +93,26 @@ we divide customers in 6 categories namely:
 
 Their values are in order of Platinum > Premium Gold > Standard Gold > Silver > Bronze > Lost Customers
 
-we used Powerbi tool to generates this model
+we used Powerbi tool to generates this model. we include UK data while preparing for model
 Screenshot:
 
 ![Capture3](https://user-images.githubusercontent.com/115641570/223330297-7b888048-eb61-4470-a4d7-210727b4c524.PNG)
 
-PowerBi Model link:
+PowerBi Model link: https://github.com/vkhot2023/TATA/blob/main/UPLOAD%20TITLE.pbix
+
+## Data Analysis and Insights
+
+we analyse data to provide best possible solutions to CEO and CMO Requirements.
+
+CEO REQUIREMENT:
+
+![image](https://user-images.githubusercontent.com/115641570/223349092-659a0a56-4ff9-43ca-9d07-c3e41ca2befe.png)
+
+CMO REQUIREMENT:
+
+![image](https://user-images.githubusercontent.com/115641570/223358652-54c5282b-dfa8-4fe4-ba9b-5ddd0b3634a3.png)
+
+More detail analysis could see into PPT document:
+
+link:
 
