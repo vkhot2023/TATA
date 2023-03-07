@@ -114,9 +114,15 @@ CMO REQUIREMENT:
 
 More detail analysis could see into PPT document:
 
-link:https://github.com/vkhot2023/TATA/blob/main/TATAppt.pdf
+link: https://github.com/vkhot2023/TATA/blob/main/TATAppt.pdf
 
 ## PowerBI Project:
 
-link:
+Link: https://github.com/vkhot2023/TATA/blob/main/upload%20TATA%20powerbi.pbix
+
+Link: https://github.com/vkhot2023/TATA/blob/main/UPLOAD%20TITLE.pbix
+
+## Project completion
+
+project successfully completed by VISHAL JAGANNATH KHOT
 
