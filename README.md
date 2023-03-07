@@ -5,4 +5,17 @@ Management wants to analyze data and receive valuable insights so they can strat
 I hired as consultant to review their data and provide insights that would assist stakeholders to improve business. 
 
 # Dataset
-link:
+link:  https://github.com/vkhot2023/TATA/blob/main/original%20Online%20Retail.xlsx
+
+# Development Process
+In this project, we are carrying following steps:
+
+1 Project Statement
+
+2 Process
+
+3 Data Analysis
+
+4 Insights
+
+## Project statement
