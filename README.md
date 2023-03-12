@@ -1,50 +1,57 @@
 # TATA CERTIFICATION PROJECT
 
-Online retail store business has been performing well and want to expand it further.
-Management wants to analyze data and receive valuable insights so they can strategically plan for next year.
-I hired as consultant to review their data and provide insights that would assist stakeholders to improve business. 
+The online retail store business has been performing well and aspires to expand further in the Market space.
+Management wants to analyze data and receive valuable insights. It would assist them in the preparation of strategically plan for next year.
+I was hired as a consultant to review their data and provide insights to improve business.
 
 # Dataset
 link:  https://github.com/vkhot2023/TATA/blob/main/original%20Online%20Retail.xlsx
 
 # Development Process
-In this project, we are carrying following steps:
+We are functioning following 5 steps to complete this project:
 
-1 Project Statement
-
-2 Data Exploration
-
-3 DashBoard Generation
-
-4 Data Analysis and Insights
+* Project statement
+* Data Exploration
+* Dashboard Development
+* Model Development
+* Data Analysis
 
 ## Project statement
+In this process, we are defining the Project Problem statement and what will consider successful completion of the project?
 
-client has Online Multinational Retail store spread across continents. Client has root business in Britain that doing well. Now client want to spread business beyond Britain.I hired as consultant to review their data and provide insights that would assist stakeholders to improve business. CEO and CMO has certain requirements that need to address while Preparing for Model
+The client has an Online Multinational Retail store spread across continents. The client has a root business in Great Britain that operating well. Now client aspires to expand business beyond Great Britain. I was hired as a consultant to analyze their data and provide insights that would assist stakeholders in improving business. CEO and CMO have specific requirements that need to address while Preparing for Model.
 
 CEO Requirements:
 
-1 Which region is generating the highest revenue, and which region is generating the lowest?
+1 Which region generating the highest revenue? Which region generating the lowest revenue?
 
-2 What is the monthly trend of revenue, which months have faced the biggest increase/decrease? 
+2 What is the monthly trend of revenue? Months has faced the exponential increase/decrease? 
 
-3 Which months generated the most revenue? Is there a seasonality in sales? 
+3 Which months generated the most revenue? Is there seasonality in sales? 
 
-4 Who are the top customers and how much do they contribute to the total revenue?
+4 Who are the top customers ? how much do they contribute to the total revenue?
 
 CMO Requirements:
 
 1 What is the percentage of customers who are repeating their orders?
 
-2 For the repeat customers, how long does it take for them to place the next order after being delivered the previous one?
+2 For the repeat customers, how long does it take to place the next order after being delivered the previous?
 
 3 Who are the customers that have repeated the most? How much are they contributing to revenue? 
 
-4 Detail segmentation of data based on Month, Country, Product and Customers
+4 Detail data segmentation based on Month, Country, Product, and Customers.
+
+The project will consider a successful complete when clients both  requirements satisfied.
 
 ## Data Exploration
+In this process, we are performing 2 tasks: Data Quality Assessments and Data Distribution.
 
-client provide Excel sheet with 503108 records. we explore data to obtain brief understanding:
+Data Quality Assessments:
+The client provides an Excel sheet with 503108 records. We perform quality assessment tests to convert data into a suitable format.
+
+Data Distribution:
+
+we explore data to obtain brief understanding:
 
 Records range: 1 DEC 2010 to 9 Dec 2011
 
@@ -58,11 +65,9 @@ Transactions:367021
 
 Total Order Quantity:4840952
 
-as we have requirement focusing outside of Britain. we only focus on this data. we applied various data cleaning techniques to obtain suitable dataset for Model Development.
-
 ### Dashboard Development
 
-In this process, we developed Dynamic Dashboard using Microsoft PowerBI tool. this dashbaord capable to provide specific information as per User requirements. User can choose pre-requistic condition to obtain data. This Dashboard capable to answer CEO and CMO requirements:
+In this process, we developed Dynamic Dashboard using the Microsoft PowerBI tool. This dashboard is capable of providing specific information as per User requirements. Users can choose the pre-requisite condition to obtain data. This Dashboard is capable of answering CEO and CMO requirements:
 
 CEO DashBoard:
 
@@ -78,8 +83,8 @@ Detail Product Report DashBoard:
 
 ### Model Development:
 
-In this process, we developed RFM model to provide list of high potential target customers.RFM analysis is utilize to determine which customers need to target to increase business. customers segmented into 5 categories:
-we divide customers in 5 categories namely:
+In this process, we developed an RFM model to provide a list of high-potential target customers.RFM analysis is utilized to determine which customers need to target to increase business. 
+We segment customers into 5 categories :
 
 1 Platinum 
 
@@ -93,16 +98,17 @@ we divide customers in 5 categories namely:
 
 Their values are in order of Platinum > Premium Gold > Standard Gold > Silver > Bronze > Lost Customers
 
-we used Powerbi tool to generates this model. we include UK data while preparing for model
+We used the Microsoft PowerBI tool to generate this model. We include Great Britain data while preparing for model
+
 Screenshot:
 
 ![Capture3](https://user-images.githubusercontent.com/115641570/223330297-7b888048-eb61-4470-a4d7-210727b4c524.PNG)
 
-PowerBi Model link: https://github.com/vkhot2023/TATA/blob/main/UPLOAD%20TITLE.pbix
+Microsoft PowerBi Model link: https://github.com/vkhot2023/TATA/blob/main/UPLOAD%20TITLE.pbix
 
 ## Data Analysis and Insights
 
-we analyse data to provide best possible solutions to CEO and CMO Requirements.
+We analyze data to provide the best possible solutions to CEO and CMO Requirements.
 
 CEO REQUIREMENT:
 
@@ -112,15 +118,17 @@ CMO REQUIREMENT:
 
 ![image](https://user-images.githubusercontent.com/115641570/223358652-54c5282b-dfa8-4fe4-ba9b-5ddd0b3634a3.png)
 
-More detail analysis could see into PPT document:
+More detail analysis could see into PDF document:
 
 link: https://github.com/vkhot2023/TATA/blob/main/TATAppt.pdf
 
-## PowerBI Project:
+## PowerBI Project and PDF Document:
 
-Link: https://github.com/vkhot2023/TATA/blob/main/upload%20TATA%20powerbi.pbix
+Requirement Dashboard Link: https://github.com/vkhot2023/TATA/blob/main/upload%20TATA%20powerbi.pbix
 
-Link: https://github.com/vkhot2023/TATA/blob/main/UPLOAD%20TITLE.pbix
+Model Dashboard Link: https://github.com/vkhot2023/TATA/blob/main/UPLOAD%20TITLE.pbix
+
+PDF Link: https://github.com/vkhot2023/TATA/blob/main/TATAppt.pdf
 
 ## Project completion
 
